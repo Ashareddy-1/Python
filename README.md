@@ -10,51 +10,67 @@ Each folder represents a specific topic and contains one or more code examples d
 🔹 Data Structures
 
 Array-Datastructure
+
 Basic operations on arrays such as traversal, insertion, deletion, and searching.
 
 Linked List
+
 Examples of singly, doubly, and circular linked lists.
 
 Stack
+
 Stack implementation using lists and custom classes with push/pop operations.
 
 Queue
+
 Queue examples including linear and circular queues.
 
 Hash Table
+
 Simple hashing and collision resolution methods.
 
 Tree
+
 Generic tree structure, traversal methods, and node operations.
 
 Binary Search Tree Part1 & Part2
+
 In-depth examples of BST creation, insertion, deletion, and traversal.
 
 🔹 Algorithms
 
 Binary Search
+
 Efficient search using divide and conquer.
 
 Bubble Sort
+
 Basic comparison-based sorting algorithm.
 
 Insertion Sort
+
 Incremental sorting approach with simple logic.
 
 Merge Sort
+
 Divide-and-conquer recursive sorting.
 
 Quick Sort
+
 Fast in-place sorting with partition logic.
 
 Shell Sort
+
 Improved insertion sort using gap sequences.
 
 🔹 Programming Concepts
+
 Class and Objects
+
 Python OOP basics including class creation and object instantiation.
 
 Read, Write Practice
+
 File operations including reading, writing, and basic file handling examples.
 
 ▶️ How to Use
