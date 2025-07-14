@@ -1,11 +1,14 @@
 Welcome to my personal repository of Data Structures and Algorithms implemented in Python. This collection is thoughtfully organized, cleanly coded, and structured for clarity, performance, and precision.
 
 📘 Python DSA Collection
+
 This repository is a structured collection of core Data Structures and Algorithms (DSA) implemented using Python.
 Each folder represents a specific topic and contains one or more code examples demonstrating its use.
 
 📂 Repository Structure
+
 🔹 Data Structures
+
 Array-Datastructure
 Basic operations on arrays such as traversal, insertion, deletion, and searching.
 
@@ -28,6 +31,7 @@ Binary Search Tree Part1 & Part2
 In-depth examples of BST creation, insertion, deletion, and traversal.
 
 🔹 Algorithms
+
 Binary Search
 Efficient search using divide and conquer.
 
@@ -54,9 +58,11 @@ Read, Write Practice
 File operations including reading, writing, and basic file handling examples.
 
 ▶️ How to Use
+
 Clone the repo and explore any topic of your choice
 
 ⭐ Highlights
+
 Simple, readable Python code
 
 Organized folder-wise by topic
